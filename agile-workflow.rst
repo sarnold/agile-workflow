@@ -17,25 +17,25 @@
 What is Agile?
 ==============
 
-* follows the core principles laid out in the `Agile Manifesto`_
+* Follows the core principles laid out in the `Agile Manifesto`_
 
-  - iterative, collaborative, sustainable, self-reflective
-  - embraces change, customer/user-focused
-  - each iteration delivers a working product
+  - Iterative, collaborative, sustainable, self-reflective
+  - Embraces change, customer/user-focused
+  - Each iteration delivers a working product
 
-* takes advantage of appropriate tools
+* Takes advantage of appropriate tools
 
-  - software development tools
-  - test/continuous integration tools
-  - communication/collaboration tools
-  - project management tools
+  - Software development tools
+  - Test/continuous integration tools
+  - Communication/collaboration tools
+  - Project management tools
 
-* communicates frequently using multiple modalities
+* Communicates frequently using multiple modalities
 
-  - actual face-to-face mtgs
-  - text/voice/video chat
-  - tool push notifications
-  - project dashboard
+  - Actual face-to-face mtgs
+  - Text/voice/video chat
+  - Tool push notifications
+  - Project dashboard
 
 
 .. _Agile Manifesto: http://agilemanifesto.org/principles.html
@@ -43,7 +43,7 @@ What is Agile?
 Agile Manifesto (core concepts)
 ===============================
 
-* Early and continuous delivery of valuable software to the customer.
+* Early and continuous delivery of value to the customer.
 
 * Harness change for the customer's competitive advantage.
 
@@ -58,6 +58,20 @@ Agile Manifesto (core concepts)
 * Simplicity in design and implementation is essential.
 
 * Reflect on how to become more effective (each iteration).  
+
+
+Agile Project Management
+========================
+
+*Agile project management refers to an incremental approach to managing projects that helps teams address and respond to change and uncertainty over the course of a project life cycle.*
+
+The core principles of agile PM are largely based on the Agile Manifesto (initially developed for software development), and emphasize:
+
+
+* The importance of collaboration in fostering innovation
+* The significance of feedback loops and iterative workflows in facilitating inspection and continuous improvement
+* The value in embracing and responding to change over blindly following a plan
+
 
 
 Artifacts
