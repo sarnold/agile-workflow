@@ -39,7 +39,7 @@ images/%.$(FIGTYPE) : images/%.dot
 # build the pdf output
 $(DOCS): $(SOURCES_MK) $(FIGS)
 	rst2pdf $< $(RSTFLAGS) $(PDF_OFLAG) $@
-	cp $(DOCS) ../prebuilt
+	cp $(DOCS) prebuilt/
 
 CLEAN  += $(GENFILES) $(DOCS)
 

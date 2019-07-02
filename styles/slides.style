@@ -55,6 +55,13 @@
         showHeader : false
         showFooter : false
 
+    skewColumn:
+        frames: []
+            [0cm, 0cm, 74%, 100%]
+            [76%, 0cm, 24%, 100%]
+        showHeader : false
+        showFooter : false
+
     threeColumn:
         frames: []
             [2%, 0cm, 29.333%, 100%]

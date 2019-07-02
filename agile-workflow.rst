@@ -42,6 +42,7 @@ Core Concepts (paraphrased)
 
 .. _History - The Agile Manifesto: http://agilemanifesto.org/history.html
 
+
 What is an Agile Process?
 =========================
 
@@ -71,14 +72,48 @@ What is an Agile Process?
 
 .. _Agile Manifesto: http://agilemanifesto.org/principles.html
 
+.. raw:: pdf
 
+   PageBreak skewColumn
 
+What is an Agile Process Model?
+===============================
 
+.. raw:: pdf
+
+   Spacer 0 2mm
+
+1. Ideation: Define the business scope for each of the project ideas and determine the time and set of tasks required to execute the project.
+
+2. Creation of Sprint Teams: After identifying the project and discussion with stakeholders, the agile team members are identified and resources are allocated to execute the project.
+
+3. Iteration: As the product goes through many rounds of improvement or iteration, the first iteration usually includes minimal functionality. Further sprints are used to develop the complete system.
+
+4. Release: At this stage, the product is ready to pass into the production phase. The quality team tests the product functionality and any major defects are corrected.
+
+5. Production: Ensure successful product launch and guide the users on its usage (continual support for the product after release).
+
+.. raw:: pdf
+
+   FrameBreak
+
+.. raw:: pdf
+
+   Spacer 0 25mm
+
+.. image:: images/Agile-Workflow-framework.png
+   :align: right
+   :width: 85%
+   :target: https://www.educba.com/agile-workflow/
+
+.. raw:: pdf
+
+   PageBreak cutePage
 
 Agile Project Management
 ========================
 
-*Agile project management refers to an incremental approach to managing projects that helps teams address and respond to change and uncertainty over the course of a project life cycle*
+`Agile project management`_ - *an incremental approach to managing projects that helps teams address and respond to change and uncertainty over the course of a project life cycle*
 
 The core principles of agile PM are largely based on the Agile Manifesto (initially developed for software development), and emphasize:
 
@@ -88,6 +123,7 @@ The core principles of agile PM are largely based on the Agile Manifesto (initia
 * The value in embracing and responding to change over blindly following a plan
 
 
+.. _Agile project management: https://www.softwareadvice.com/project-management/agile-comparison/
 
 Artifacts
 =========
