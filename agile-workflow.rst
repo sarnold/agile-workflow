@@ -17,11 +17,6 @@
 The Agile Manifesto
 ===================
 
-Agile Software Development
---------------------------
-
-*A set of guiding principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s)*
-
 Core Concepts (paraphrased)
 ---------------------------
 
@@ -41,6 +36,11 @@ Core Concepts (paraphrased)
 
 * Reflect on how to become more effective (each iteration)
 
+*The Agile movement is not anti-methodology, in fact many of us want to restore credibility to the word methodology. We want to restore a balance. We embrace modeling, but not in order to file some diagram in a dusty corporate repository. We embrace documentation, but not hundreds of pages of never-maintained and rarely-used tomes. We plan, but recognize the limits of planning in a turbulent environment. Those who would brand proponents of XP or SCRUM or any of the other Agile Methodologies as "hackers" are ignorant of both the methodologies and the original definition of the term hacker.*
+  
+*Jim Highsmith,* `History - The Agile Manifesto`_
+
+.. _History - The Agile Manifesto: http://agilemanifesto.org/history.html
 
 What is an Agile Process?
 =========================
